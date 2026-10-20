@@ -13,3 +13,4 @@ Página web de la tienda de bicicletas BiciRuta S.L. Proyecto de la práctica UT
 ## Cómo verlo
 
 Abre la carpeta en VS Code, instala la extensión Live Server y pulsa "Go Live".
+Autor: Luis Javier López Lachapel
